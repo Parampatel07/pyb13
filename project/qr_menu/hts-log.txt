@@ -1,0 +1,16 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 29 Dec 2022 07:53:59 at https://templates.hibootstrap.com/caban/default/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://templates.hibootstrap.com/caban/default/index.html -O1 "E:\httrack\qr_menu" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+07:54:57	Error: 	"Not Found" (404) at link https://templates.hibootstrap.com/caban/default/menus.html (from https://templates.hibootstrap.com/caban/default/index.html)
+07:54:58	Error: 	"Not Found" (404) at link https://templates.hibootstrap.com/caban/default/assets/img/footer/footer-bg-2.jpg (from https://templates.hibootstrap.com/caban/default/assets/css/style.css)
+07:54:58	Error: 	"Not Found" (404) at link https://templates.hibootstrap.com/caban/default/car-details.html (from https://templates.hibootstrap.com/caban/default/shop-left-sidebar.html)
+07:54:58	Error: 	"Not Found" (404) at link https://templates.hibootstrap.com/caban/default/terms-condition.html (from https://templates.hibootstrap.com/caban/default/shop-details.html)
+07:54:58	Error: 	"Not Found" (404) at link https://templates.hibootstrap.com/caban/default/blog-details-right-sideabar.html (from https://templates.hibootstrap.com/caban/default/blog-details-no-sidebar.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 58 seconds : 203 links scanned, 197 files written (19058675 bytes overall) [15852047 bytes received at 273311 bytes/sec], 5238879 bytes transferred using HTTP compression in 79 files, ratio 35%, 50.7 requests per connection
+(5 errors, 0 warnings, 0 messages)
