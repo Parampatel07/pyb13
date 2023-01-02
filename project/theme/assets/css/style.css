@@ -1779,7 +1779,7 @@ p {
 
 .header-wrap.style3 .header-top .header-top-left .contact-item p,
 .header-wrap.style3 .header-top .header-top-left .contact-item a {
-    color: #fff
+    color: black;
 }
 
 .header-wrap.style3 .header-top .header-top-left .contact-item p span {
